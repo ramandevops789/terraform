@@ -5,7 +5,7 @@ variable "instance_names" {
 }
 
 variable "domain_name" {
-  default = "daws81s.online"
+  default = "devopsaws.online"
 }
 
 variable "zone_id" {
